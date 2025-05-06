@@ -1,0 +1,7 @@
+Flask
+openai>=1.0.0
+PyMuPDF
+beautifulsoup4
+requests
+matplotlib
+python-dotenv
